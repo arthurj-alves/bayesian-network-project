@@ -32,17 +32,6 @@ A partir desse modelo, realizamos duas abordagens:
 
 ```
 
----
-
-## ⚙️ Tecnologias e Bibliotecas Utilizadas
-
-- **Python 3.12**
-- **pgmpy**
-- **pandas**
-- **numpy**
-- **scikit-learn**
-- **networkx**
-- **matplotlib** (opcional para visualizações)
 
 ---
 
@@ -94,20 +83,11 @@ Com o aumento da amostra, a rede aprendida manteve desempenho estável e consist
 
 ---
 
-## 🚀 Próximos Passos
-
-- Implementar **validação cruzada** para medir a estabilidade do aprendizado.
-- Restringir o Hill Climbing com **conhecimento causal prévio** (ex.: `smoke → bronc`, `asia → tub`).
-- Testar diferentes **funções de score** (K2, BDeu).
-- Visualizar e comparar as **estruturas gráficas** das redes HC e Asia.
-
----
-
 ## 👨‍💻 Autor
 
-**[Seu Nome Aqui]**  
+**ARTHUR JORGE**  
 Estudante de Engenharia de Sistemas – UFMG  
-Contato: [seu.email@dominio.com]
+Contato: [arthurjorgeac@gmail.com]
 
 ---
 
