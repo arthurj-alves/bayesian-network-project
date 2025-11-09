@@ -1,4 +1,3 @@
-```markdown
 # 🌐 Projeto: Redes Bayesianas – Comparação entre Modelo Aprendido e Modelo Asia Original
 
 Este projeto tem como objetivo **comparar o desempenho de uma rede bayesiana aprendida por dados reais** (via algoritmo Hill Climbing) com o **modelo Asia original**, amplamente utilizado como referência em inferência probabilística.
@@ -118,4 +117,3 @@ Este projeto é distribuído sob a licença MIT.
 Sinta-se à vontade para usar, modificar e compartilhar.
 
 ---
-```
